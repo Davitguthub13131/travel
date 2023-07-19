@@ -13,6 +13,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+
+html {
+    scroll-behavior: smooth;
+}
+
 p {
     margin: 0 0 1rem;
 }
@@ -147,3 +152,28 @@ footer p {
     padding: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.about h1 {
+    text-align: center;
+    font-size:3rem ;
+}
+
+.about  p {
+    color: #222222;
+    text-align: center;  
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
